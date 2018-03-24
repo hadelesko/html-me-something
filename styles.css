@@ -1,7 +1,38 @@
-p{ width : 40%;
+p{ width : 100%;
     margin: 10px;
     font-family: Verdana, Geneva, sans- serif;
+    align: justify
+}
+
+.rubrik{
+    background-color: purple
 }
 h1{ align: justify;
-    font-size: 200%;
+    font-size: 100%;
+}
+div, img {
+    align: justify;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+article {
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color : green;
+    
+}
+.bottom-rigth{
+    position: absolute;
+    bottom: 10px
+    right : 16px;
+    
 }
